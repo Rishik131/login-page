@@ -1,0 +1,9 @@
+.input_box{
+    width: 98%;
+    height: 30px;
+    border-radius: 10px;
+    outline: 0;
+    border: none;
+    border: solid;
+    border-width: 1px;
+}
